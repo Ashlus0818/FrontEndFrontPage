@@ -173,7 +173,7 @@
         display: none;
 	}
 	.flat-our-history {
-	    background-image: url(../images/footer.jpg);
+	    background-image: url(../image/footer.jpg);
 	}
 	.flat-our-history .info-history,
 	.flat-our-history .info-history-right {
@@ -489,7 +489,7 @@
 		margin-top: 50px;
 	}
 	.main-blog-details .sidebar .sidebar-inner .widget-categories .thumb-new-banner {
-	    background-image: url(../images/banner.jpg);
+	    background-image: url(../image/banner.jpg);
 	    height: 386px;
 	    margin-top: 43px;
 	    position: relative;
@@ -522,7 +522,7 @@
 	    display: none;
 	}
     .main-blog-right .sidebar .sidebar-inner .widget-categories .thumb-new-banner {
-	    background-image: url(../images/banner.jpg);
+	    background-image: url(../image/banner.jpg);
 	    height: 386px;
 	    margin-top: 43px;
 	    position: relative;
@@ -1190,7 +1190,7 @@
 	}
 
 	.flat-about.style4 {
-		background-image: url(../images/footer.jpg);
+		background-image: url(../image/footer.jpg);
 		padding-bottom: 40px;
 	}
 
